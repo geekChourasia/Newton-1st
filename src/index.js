@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 // import './index.css';
-// import Para from './App';
+ import Para from './Para';
 // import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
- <p>I am learning React. My life is getting better.</p>,
+ <Para/>,
   document.getElementById('root')
 );
 
